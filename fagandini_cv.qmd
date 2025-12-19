@@ -1,5 +1,236 @@
 ---
-title: "About"
+title: "Paulo Fagandini"
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: cosmo
+    css: styles.css
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+    fontsize: 11pt
 ---
 
-About this site
+::: {.contact-info}
+**Email:** [pfagandini@iscal.ipl.pt](mailto:pfagandini@iscal.ipl.pt) | [paulo.fagandini@novasbe.pt](mailto:paulo.fagandini@novasbe.pt) | [paulo.ruiz@uevora.pt](mailto:paulo.ruiz@uevora.pt)
+
+**Website:** [pfagandini.github.io](https://pfagandini.github.io)
+
+**Born:** March 26, 1986 – Viña del Mar, Chile | **Citizenship:** Chilean / Italian
+
+**ORCID:** 0000-0002-5386-2160 | **Ciência ID:** 4011-5942-8AAD  
+**SCOPUS ID:** 57224823274 | **IDEAS:** pfa431
+:::
+
+*Updated on Dec, 2025*
+
+---
+
+## Areas of Specialization
+
+Applied Microeconomic Theory | Computational Economics
+
+---
+
+## Appointments
+
+**2021–present** — Assistant Professor (Adjunct – Full Time)  
+Lisbon Accounting and Business School, Polytechnic University of Lisbon
+
+**2023–present** — Assistant Professor (Adjunct – Part Time)  
+Nova School of Business and Economics, NOVA University Lisbon
+
+**2025–present** — Assistant Professor (Adjunct – Part Time)  
+Faculty of Social Sciences and Technology, Universidade Europeia
+
+**2021–present** — Research Member  
+Center for Advanced Studies in Management and Economics
+
+**2018–2020** — Postdoctoral Fellow  
+Nova School of Business and Economics, NOVA University Lisbon
+
+---
+
+## Academic Degrees
+
+**2018** — Ph.D. in Economics  
+Nova School of Business and Economics, UNL
+
+**2014** — M.Res. in Economics  
+Nova School of Business and Economics, UNL
+
+**2011** — B.Sc. in Economics  
+School of Economics and Business - UChile
+
+---
+
+## Grants, Honors & Awards
+
+### Grants and Scholarships
+
+**2015–2018** — Fundação para a Ciência e a Tecnologia (FCT)  
+Doctoral Grant: SFRH/BD/105669/2015
+
+**2011–2015** — Nova SBE Scholarship for merit (Partial tuition waiver)
+
+---
+
+## Research
+
+### Peer Reviewed Publications
+
+Fagandini P., and Dierickx I. (2023). Computing Profit-Maximizing Bid Shading Factors in First-Price Sealed-Bid Auctions. *Computational Economics*, 61(3), 1009-1035. [https://doi.org/10.1007/s10614-022-10321-y](https://doi.org/10.1007/s10614-022-10321-y)
+
+Fagandini, P. (2022). Wealth and the principal–agent matching. *Managerial and Decision Economics*, 43(2), 555–568. [https://doi.org/10.1002/mde.3402](https://doi.org/10.1002/mde.3402)
+
+### Book Chapters
+
+Fagandini, P. (2024). Implementing the Agent ID Model and Simulation Results. In: Gomes, O., Lins de Moraes, M., Fagandini, P. (eds) The Agent ID Model. Integrated Science, vol 32. Springer, Cham. [https://doi.org/10.1007/978-3-031-75996-3_10](https://doi.org/10.1007/978-3-031-75996-3_10)
+
+### Working Papers
+
+"Surviving the Perfect Storm: Exports, Fiscal Austerity, and Firm Heterogeneity." (2020, joint with M. Adelino, M.A. Ferreira, Francisco Queiró)
+
+"Hunting with two bullets; Moral Hazard with a Second Chance." (2018) Nova SBE WP 629
+
+### Conferences and Seminars
+
+**2018** — RG, Nova SBE, Lisbon PT; DEA-UIB, Palma ES; PEJ Meeting 2018, Lisbon PT*
+
+**2017** — UECE Lisbon Meetings, Lisbon PT*; NOVA Doctoral School, UNL, Lisbon PT; IRW, Nova SBE, Lisbon PT; RG, Nova SBE, Lisbon PT
+
+**2016** — QEDJ 2016, Amsterdam NE; ASSET Annual Meeting 2016, Thessaloniki GR*
+
+*\* Peer Reviewed*
+
+### Other Communications
+
+#### Teaching Materials
+
+**2020** — "Writing a full LaTeX document from Scratch" (EN)  
+Online Course available at Udemy.com – 7 hours course
+
+#### Press Coverage
+
+**20-Jan-2020** — "Fornecedores do Estado fizeram o milagre das exportações"  
+*Jornal de Negócios* (PT)
+
+**7-Jan-2020** — "Surviving the Perfect Storm: Exports, Fiscal Austerity, and Firm Heterogeneity"  
+*The FinReg Blog*, Global Financial Markets Center, School of Law, Duke University
+
+#### Speaker in Conferences, Seminars, and Special Lectures
+
+**29-Oct-2021** — "Os desafios das empresas num contexto de incerteza: Perspetivas multivariadas"  
+Lisbon Accounting and Business School - IPL (PT)
+
+---
+
+## Teaching Experience
+
+### Instructor
+
+The language in which the name of the course appears, reveals the teaching languange.
+
+**2025-present** — Faculty of Social Sciences and Technology, UE
+
+- B.Sc.: Economics, Economia do Turismo
+
+**2021–present** — Lisbon Accounting and Business School, IPL
+
+- B.Sc.: Microeconomia, Statistics I, Statistics II, Principios de Macroeconomia
+
+**2018–present** — Nova School of Business and Economics, UNL
+
+- Ph.D.: Bridging Mathematics
+- M.Sc.: Math and Stats
+
+### Teaching Assistant
+
+**2013–present** — Nova School of Business and Economics, UNL
+
+- M.Sc. (Grader): Financial Management, Advanced Financial Management, Financial Management for Entrepreneurs, Machine Learning, Advanced Industrial Organization, Organization and Incentives, Economics of Regulation, Game Theory
+- B.Sc. (TA): Econometrics, Finance , Industrial Organization, Advanced Microeconomics, Macroeconomics
+
+**2008–2010** — School of Economics and Business, UChile
+
+- B.Sc. (Head TA): Introducción a Macroeconomía, Macroeconomía I
+- B.Sc. (TA): Macroeconomía I, Macroeconomía II
+
+### Thesis Supervision
+
+**2025 Spring** — Markus Relbo, MSc. Finance - Nova SBE
+
+### Thesis Jury Participation
+
+* **2025 Fall** 4 MSc. Economics - Nova SBE.
+* **2024 Fall** 3 MSc. International Development and Public Policy. 1 MSc. Economics - Nova SBE.
+* **2023 Fall** 2 MSc. Economics. 1 MSc, Business Analytics - Nova SBE.
+
+---
+
+## Other Education
+
+**2023** — Commercial Engineering – Professional Title  
+Approved with distinction. School of Economics & Business - UChile
+
+**2019** — "Stata Econometrics Winter School 2019"  
+Timberlake, FEP Universidade do Porto
+
+**2017** — Summer School: "Liquidity in Financial Markets and Institutions"  
+Finance Theory Group, Olin Business School, Washington University
+
+**Fall 2016** — Visiting Ph.D. Student  
+European Center for Advanced Research in Economics and Statistics, Université libre de Bruxelles
+
+**2015** — Workshop: "Pedagogical Training for College Teachers"  
+NOVA Medical School, UNL
+
+---
+
+## Other Professional Experience
+
+**2023** — External Consultant  
+TimWe.Tech
+
+**2014–2015** — Senior Consultant  
+I.D. Consulting Limited
+
+**2011** — Trainee Program  
+Pro-Chile Milano (IT), Directorate of Economic Relations of the Ministry of Foreign Affairs of Chile (6 months)
+
+---
+
+## Skills
+
+**Software:** Windows, Office (Advanced MS Excel), Linux (Debian based), Git, Mathematica
+
+**Programming Languages:** Stata, Python, SQL, Java, LaTeX, MATLAB/Octave, R
+
+**Languages:** Spanish (native), English and Portuguese (fluent), Italian (intermediate)
+
+---
+
+## Academic Service
+
+### Referee
+
+Information Economics and Policy, Managerial and Decision Economics, Computational Economics, Portuguese Economic Journal, Theory and Decision, PLOS One.
+
+### Editor
+
+**2024** — Gomes, O., Lins de Moraes, M., Fagandini, P. (eds) The Agent ID Model. Integrated Science, vol 32. Springer, Cham. https://doi.org/10.1007/978-3-031-75996-3
+
+### Conference Chairs
+
+**2017** — UECE Lisbon Meetings in Game Theory and Applications  
+Session: Matching II
+
+**2016** — ASSET Annual Meeting 2016  
+Session: Asymmetric Information I
+
+---
+
+::: {.download-section}
+[Download PDF Version](fagandini_cv.pdf){.btn .btn-primary}
+:::

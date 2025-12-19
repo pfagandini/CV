@@ -1,13 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "CV"
+  title: "Paulo Fagandini"
   navbar:
     left:
-      - href: index.qmd
+      - href: https://pfagandini.github.io
         text: Home
-      - about.qmd
+      - href: fagandini_cv.qmd
+        text: Curriculum Vitae
+      - href: fagandini_resume.qmd
+        text: Resume
 
 format:
   html:

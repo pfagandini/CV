@@ -10,6 +10,7 @@ format:
     documentclass: article
     geometry: margin=1in
     fontsize: 11pt
+    fontfamily: helvet
 ---
 
 ::: {.contact-info}
@@ -231,6 +232,9 @@ Session: Asymmetric Information I
 
 ---
 
+
+::: {.content-visible when-format="html"}
 ::: {.download-section}
 [Download PDF Version](fagandini_cv.pdf){.btn .btn-primary}
+:::
 :::

@@ -1,1 +1,76 @@
-/* css styles */
+/* CV Styling */
+
+.contact-info {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #0066cc;
+}
+
+.contact-info p {
+  margin: 0.3rem 0;
+  line-height: 1.6;
+}
+
+h2 {
+  color: #0066cc;
+  border-bottom: 2px solid #0066cc;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: #333;
+  margin-top: 1.5rem;
+}
+
+.download-section {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0066cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0052a3;
+  color: white;
+}
+
+/* Better spacing for lists */
+ul, ol {
+  line-height: 1.8;
+}
+
+/* Make links more visible */
+a {
+  color: #0066cc;
+}
+
+a:hover {
+  color: #0052a3;
+  text-decoration: underline;
+}
+
+/* Print-friendly styles */
+@media print {
+  .download-section {
+    display: none;
+  }
+  
+  h2 {
+    page-break-after: avoid;
+  }
+}

@@ -1,5 +1,7 @@
 ---
 title: "Paulo Fagandini, PhD"
+date: today
+date-format: "MMMM D, YYYY" 
 format:
   html:
     toc: true
@@ -18,6 +20,9 @@ format:
         \usepackage{titling}
         \pretitle{\vspace{-3cm}\begin{center}\LARGE\bfseries}
         \posttitle{\end{center}\vspace{-1.5cm}}
+        \predate{}
+        \postdate{}
+        \date{}
         
 ---
 
@@ -31,8 +36,6 @@ format:
 **ORCID:** 0000-0002-5386-2160 | **Ciência ID:** 4011-5942-8AAD  
 **SCOPUS ID:** 57224823274 | **IDEAS:** pfa431
 :::
-
-*Updated on Dec, 2025*
 
 ---
 
@@ -158,11 +161,15 @@ The language in which the name of the course appears, reveals the teaching langu
 - Ph.D.: Bridging Mathematics
 - M.Sc.: Math and Stats
 
+**2025** — Prague University of Economics and Business, CZ (Visiting)
+
+- M.Sc.: Economics of Incentives for Policy and Politics (18-hour intensive course)
+
 ### Teaching Assistant
 
 **2013–present** — Nova School of Business and Economics, UNL
 
-- M.Sc. (Grader): Financial Management, Advanced Financial Management, Financial Management for Entrepreneurs, Machine Learning, Advanced Industrial Organization, Organization and Incentives, Economics of Regulation, Game Theory
+- M.Sc. (Grader): Digital Experimentation & Causal Analysis, Financial Management, Advanced Financial Management, Financial Management for Entrepreneurs, Machine Learning, Advanced Industrial Organization, Organization and Incentives, Economics of Regulation, Game Theory
 - B.Sc. (TA): Econometrics, Finance , Industrial Organization, Advanced Microeconomics, Macroeconomics
 
 **2008–2010** — School of Economics and Business, UChile
